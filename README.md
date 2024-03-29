@@ -17,7 +17,7 @@ git clone https://github.com/waheed-afridi/MarketPlace_support_chatbot
 cd MarketPlace_support_chatbot
 ```
 ```bash
-python python Marketplace_chatbot.py
+python Marketplace_chatbot.py
 ```
 
 ## Specificatoin:
